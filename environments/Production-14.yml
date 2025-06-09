@@ -1,11 +1,11 @@
 fileVersion: 1
-id: "11"
+id: "14"
 mappingDefinitions:
   SRC:
     database: SNOWFLAKE_SAMPLE_DATA
     schema: TPCH_SF1
   WORK:
     database: ARJUN
-    schema: WORKDEV
-name: New Environment
+    schema: WORKPROD
+name: Production
 type: Environment
